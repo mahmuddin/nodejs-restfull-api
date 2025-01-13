@@ -4,7 +4,7 @@ Init Prisma
 npx prisma init --datasource-provider "mysql"
 ```
 
-Setting Prisma Client
+Creating the Schema
 
 ```bash
 npx prisma generate
